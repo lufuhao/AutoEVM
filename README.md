@@ -17,6 +17,14 @@
   4. Recombine: recombine_EVM_partial_outputs.pl
   5. Convert  : convert_EVM_outputs_to_GFF3.pl
 
+## Requirements
+
+  EVidenceModuler
+
+>  Note: need to put subfolder 'EvmUtils' in PATH
+>
+>        export PATH=/your/evm/rootpath/EvmUtils:\$PATH
+
 ## Options:
 
 >  -h    Print this help message
