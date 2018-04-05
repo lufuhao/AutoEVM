@@ -23,7 +23,7 @@
 
 >  Note: need to put subfolder 'EvmUtils' in PATH
 >
->        export PATH=/your/evm/rootpath/EvmUtils:\$PATH
+>        export PATH=/your/evm/rootpath/EvmUtils:$PATH
 
 ## Options:
 
@@ -44,7 +44,7 @@
 >  -d    debug mode, more detail
 
 ## Example:
-  $0 -g genome.fa -p abinitio.gff3 -e est.gff3 -a AA.gff3 -w weights.txt
+  autoevm.sh -g genome.fa -p abinitio.gff3 -e est.gff3 -a AA.gff3 -w weights.txt
 
 ## Author:
 
