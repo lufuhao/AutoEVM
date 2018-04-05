@@ -19,7 +19,7 @@
 
 ## Requirements
 
-  EVidenceModuler
+  [EVidenceModuler](https://evidencemodeler.github.io/)
 
 >  Note: need to put subfolder 'EvmUtils' in PATH
 >
